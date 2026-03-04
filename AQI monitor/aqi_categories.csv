@@ -1,0 +1,7 @@
+AQI_Low,AQI_High,Category,Color
+0,50,Good,Green
+51,100,Satisfactory,Light Green
+101,200,Moderate,Yellow
+201,300,Poor,Orange
+301,400,Very Poor,Red
+401,500,Severe,Maroon
